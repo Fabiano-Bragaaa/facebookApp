@@ -19,7 +19,6 @@ export default function List(props) {
       </View>
       <View style={styles.descriptionView}>
         <Text style={styles.description}> {props.data.descricao} </Text>
-        <Text style={styles.description}> {props.data.descricao} </Text>
       </View>
     </View>
   );
